@@ -1,0 +1,88 @@
+  
+.form-wrapper{
+    margin-top: 30px;
+}
+.log-form{
+    padding: 20px;
+    width: 570px;
+    /* height: 500px; */
+    background: rgba(255, 255, 255, 0.11);
+    border: 1px solid #ABABAB;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.form-border{
+    background:none;
+    border:none;
+    outline: none;
+    border-bottom: 1px solid #C5C5C5;
+    color: #000000;
+    padding-bottom: 15px;
+    margin-top: 40px;
+}
+.form-border::placeholder{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #ffffff;
+}
+.log-form h4{
+    color: #000000;
+    font-weight: 700;
+}
+.forgot{
+    margin-top: 30px;
+}
+.forgot label{
+    color: #ffff;
+    font-size: 16px;
+}
+.submit-btn{
+    padding: 14px 210px;
+    width: 461px;
+    height: 50px;
+    background: #F9A51A;
+    margin:auto;
+}
+.login-btn{
+    margin-top: 30px;
+}
+.password{
+    color: white;
+    font-size: 16px;
+}
+.password:hover{
+    color: white;
+    text-decoration: none;
+}
+.span-link{
+    margin-top: 20px;
+    font-size: 18px;
+}
+.form-bottom{
+    margin: 20px;
+}
+.form-bottom span{
+    background:#AAAAAA;
+    height: 1px;
+    line-height: 40px;
+    width: 200px;
+    margin: 5px;
+}
+.form-bottom h6{
+    color:#ffffff;
+    margin: 5px;
+}
+.google-btn{
+    width: 461px;
+    height: 51px;
+    background: #FFFFFF;
+    border: 1px solid #C7C7C7;
+    box-sizing: border-box;
+    border-radius: 57px;
+    margin-top: 10px;
+}
+.fbToGoogle{
+    margin-left: 20px;
+}

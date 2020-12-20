@@ -1,0 +1,11 @@
+.room-wrapper{
+    margin-top: 50px;
+    background: rgba(255, 255, 255, 0.144);
+}
+.single-room{
+    margin: 20px 0;
+    color:#ffffff;
+}
+.room-info{
+    margin-left: 10px;
+}
